@@ -1,6 +1,20 @@
 # 💫 About Me:
 👋 Hi, I’m Bhabesh - @Bhuvilol<br>🔭 I’m currently pursuing Cybersecurity as specialization in Bachelor in Technolgy in Computer Science and Engineering as major.<br>👀 I’m interested in so many stuffs can't list it down in one go. Curious is my second name and would die for the unsolved mystery haunting me all night.<br>👯 I’m looking forward to do projects in the field of development.<br>🌱 I’m currently learning basic programming languages (java, c, c++). Planned to learn all pre-requisites required for a full stack web developer.<br>💞️ I’m looking to collaborate with some of my shortlisted company for a well dignified certificate and obviously stipend.<br>😄 Pronouns: ... My pronouns are He/Him.<br>💬 Ask me about oops and Linux working.<br>⚡ Fun fact: I know I am the mitochondria of my group but actually I am the real nucleus😉.
-
+<br>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/KhWRuEzc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]((https://www.facebook.com/Liku003/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_machomoron) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhabesh-behera-3a4a2a295/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Bhuviii) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhubi03) 
