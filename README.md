@@ -22,12 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/0xbhuvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="0xbhuvii" height="30" width="40" /></a>
 <a href="https://twitter.com/0xbhuvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xbhuvi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/bhabesh-behera-3a4a2a295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bhabesh-behera-3a4a2a295" height="30" width="40" /></a>
-<a href="https://kaggle.com/zeroxbhuvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="zeroxbhuvii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bhabesh-behera-3a4a2a295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bhabesh-behera-3a4a2a295" height="30" width="40" /></a>
 <a href="https://instagram.com/_machomoron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_machomoron" height="30" width="40" /></a>
-<a href="https://medium.com/@bhabeshcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhabeshcse" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bhabeshcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhabeshcse" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/0xbhuvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0xbhuvi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/bhabesgpic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhabesgpic" height="30" width="40" /></a>
