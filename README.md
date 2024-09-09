@@ -44,9 +44,9 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvilol&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="bhuvilol" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvilol&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="bhuvilol" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvilol&show_icons=true&theme=highcontrast&locale=en" alt="bhuvilol" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvilol&show_icons=true&theme=highcontrast&locale=en" alt="bhuvilol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvilol&theme=highcontrast" alt="bhuvilol" /></p><br>
 
