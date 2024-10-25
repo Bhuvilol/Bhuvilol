@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhabesh</h1>
-👋 Hi, I’m Bhabesh - @Bhuvilol<br>🔭 I’m currently pursuing Cybersecurity as specialization in Bachelor in Technolgy in Computer Science and Engineering as major.<br> 🤝 I’m looking for help for someone with machine learning and backend development.<br> 🌱 I’m currently learning backend tech stacks and devops functioning.<br> 💬 Ask me about frontend web and application development.<br>⚡ Fun fact: I know I am the mitochondria of my group but actually I am the real nucleus😉.
+👋 Hi, I’m Bhabesh - @Bhuvilol<br>🔭 I’m currently pursuing Cybersecurity as specialization in Bachelor in Technolgy in Computer Science and Engineering as major.<br> 🤝 I’m looking for help for someone with machine learning and backend development.<br> 🌱 I am currently exploring blockchain technologies and machine learning solutions for better visually acquainted services.<br> 💬 Ask me about frontend web and application development.<br>⚡ Fun fact: I know I am the mitochondria of my group but actually I am the real nucleus😉.
 
 
 <picture>
